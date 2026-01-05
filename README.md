@@ -1,4 +1,4 @@
 # Sample-1
 This is my first Git Repository.
 <br>
-Author - Malik Rehan
+Author - Malik Halgeri
